@@ -1,13 +1,13 @@
 {
-  "main.css": "/groupifier-next/static/css/main.b22f9b8e.chunk.css",
-  "main.js": "/groupifier-next/static/js/main.0912bb8d.chunk.js",
-  "main.js.map": "/groupifier-next/static/js/main.0912bb8d.chunk.js.map",
-  "static/js/1.9d93b3d2.chunk.js": "/groupifier-next/static/js/1.9d93b3d2.chunk.js",
-  "static/js/1.9d93b3d2.chunk.js.map": "/groupifier-next/static/js/1.9d93b3d2.chunk.js.map",
+  "main.css": "/groupifier-next/static/css/main.a9c887dc.chunk.css",
+  "main.js": "/groupifier-next/static/js/main.dfb29510.chunk.js",
+  "main.js.map": "/groupifier-next/static/js/main.dfb29510.chunk.js.map",
+  "static/js/1.b6200276.chunk.js": "/groupifier-next/static/js/1.b6200276.chunk.js",
+  "static/js/1.b6200276.chunk.js.map": "/groupifier-next/static/js/1.b6200276.chunk.js.map",
   "runtime~main.js": "/groupifier-next/static/js/runtime~main.fd0bff10.js",
   "runtime~main.js.map": "/groupifier-next/static/js/runtime~main.fd0bff10.js.map",
-  "static/css/main.b22f9b8e.chunk.css.map": "/groupifier-next/static/css/main.b22f9b8e.chunk.css.map",
+  "static/css/main.a9c887dc.chunk.css.map": "/groupifier-next/static/css/main.a9c887dc.chunk.css.map",
   "index.html": "/groupifier-next/index.html",
-  "precache-manifest.087a1169f8cdd174bc94bc75841be390.js": "/groupifier-next/precache-manifest.087a1169f8cdd174bc94bc75841be390.js",
+  "precache-manifest.0445ab48a755c5c31b8cea7a60d745e9.js": "/groupifier-next/precache-manifest.0445ab48a755c5c31b8cea7a60d745e9.js",
   "service-worker.js": "/groupifier-next/service-worker.js"
 }
