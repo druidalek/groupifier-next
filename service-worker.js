@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/groupifier-next/precache-manifest.9c56104fbb9adc3bbe079af950c10f0f.js"
+  "/groupifier-next/precache-manifest.ed32c38715a63fcc317f4e74cedf02a7.js"
 );
 
 workbox.clientsClaim();
