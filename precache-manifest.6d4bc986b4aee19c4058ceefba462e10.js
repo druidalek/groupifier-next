@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/groupifier-next/static/js/runtime~main.fd0bff10.js"
   },
   {
-    "revision": "39b6c9176ed180ceadd4",
-    "url": "/groupifier-next/static/js/main.39b6c917.chunk.js"
+    "revision": "803d707007df37afef2e",
+    "url": "/groupifier-next/static/js/main.803d7070.chunk.js"
   },
   {
     "revision": "d059964004463ad5a583",
     "url": "/groupifier-next/static/js/1.d0599640.chunk.js"
   },
   {
-    "revision": "39b6c9176ed180ceadd4",
+    "revision": "803d707007df37afef2e",
     "url": "/groupifier-next/static/css/main.28526314.chunk.css"
   },
   {
-    "revision": "f3c0c7e990509c34d6e767f82366ee5c",
+    "revision": "f5941059ab97e41f71b4aaa2e25d0467",
     "url": "/groupifier-next/index.html"
   }
 ];
