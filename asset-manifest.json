@@ -1,13 +1,15 @@
 {
-  "main.css": "/groupifier-next/static/css/main.9e90be8d.chunk.css",
-  "main.js": "/groupifier-next/static/js/main.a90077ff.chunk.js",
-  "main.js.map": "/groupifier-next/static/js/main.a90077ff.chunk.js.map",
-  "runtime~main.js": "/groupifier-next/static/js/runtime~main.117317cb.js",
-  "runtime~main.js.map": "/groupifier-next/static/js/runtime~main.117317cb.js.map",
-  "static/js/2.b3dd5389.chunk.js": "/groupifier-next/static/js/2.b3dd5389.chunk.js",
-  "static/js/2.b3dd5389.chunk.js.map": "/groupifier-next/static/js/2.b3dd5389.chunk.js.map",
-  "index.html": "/groupifier-next/index.html",
-  "precache-manifest.3d9e23e73f7102f6b3fe9f9e232259b4.js": "/groupifier-next/precache-manifest.3d9e23e73f7102f6b3fe9f9e232259b4.js",
-  "service-worker.js": "/groupifier-next/service-worker.js",
-  "static/css/main.9e90be8d.chunk.css.map": "/groupifier-next/static/css/main.9e90be8d.chunk.css.map"
+  "files": {
+    "main.css": "/groupifier-next/static/css/main.f145aeef.chunk.css",
+    "main.js": "/groupifier-next/static/js/main.ac83ef05.chunk.js",
+    "main.js.map": "/groupifier-next/static/js/main.ac83ef05.chunk.js.map",
+    "runtime~main.js": "/groupifier-next/static/js/runtime~main.78957a84.js",
+    "runtime~main.js.map": "/groupifier-next/static/js/runtime~main.78957a84.js.map",
+    "static/js/2.f4ca861c.chunk.js": "/groupifier-next/static/js/2.f4ca861c.chunk.js",
+    "static/js/2.f4ca861c.chunk.js.map": "/groupifier-next/static/js/2.f4ca861c.chunk.js.map",
+    "index.html": "/groupifier-next/index.html",
+    "precache-manifest.c970b5101f677c8451029ed2d16b4a59.js": "/groupifier-next/precache-manifest.c970b5101f677c8451029ed2d16b4a59.js",
+    "service-worker.js": "/groupifier-next/service-worker.js",
+    "static/css/main.f145aeef.chunk.css.map": "/groupifier-next/static/css/main.f145aeef.chunk.css.map"
+  }
 }
