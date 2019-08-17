@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/groupifier-next/precache-manifest.c970b5101f677c8451029ed2d16b4a59.js"
+  "/groupifier-next/precache-manifest.2a2617fdf48f3f6ca62ff3e7f26a5bdc.js"
 );
 
 self.addEventListener('message', (event) => {
