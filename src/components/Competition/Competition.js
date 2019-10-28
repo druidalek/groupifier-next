@@ -10,6 +10,7 @@ import CompetitionMenu from './CompetitionMenu/CompetitionMenu';
 import ConfigManager from './ConfigManager/ConfigManager';
 import GroupsManager from './GroupsManager/GroupsManager';
 import PrintingManager from './PrintingManager/PrintingManager';
+import PreviewManager from './PreviewManager/PreviewManager';
 import RolesManager from './RolesManager/RolesManager';
 
 import { getWcif } from '../../logic/wca-api';
@@ -72,6 +73,10 @@ const Competition = ({ match }) => {
             <Route
               path={`${match.url}/printing`}
               render={props => <PrintingManager {...props} wcif={wcif} />}
+            />
+            <Route
+              path={`${match.url}/preview`}
+              render={props => <PreviewManager {...props} wcif={wcif} />}
             />
           </Switch>
         </Fragment>

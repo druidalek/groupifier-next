@@ -8,6 +8,7 @@ import Paper from '@material-ui/core/Paper';
 import PeopleIcon from '@material-ui/icons/People';
 import PermContactCalendarIcon from '@material-ui/icons/PermContactCalendar';
 import PrintIcon from '@material-ui/icons/Print';
+import VisibilityIcon from '@material-ui/icons/Visibility';
 import SettingsIcon from '@material-ui/icons/Settings';
 
 import {
@@ -40,6 +41,12 @@ const menuItems = [
     path: '/printing',
     text: 'Print documents',
     icon: PrintIcon,
+    enabled: wcif => anyCompetitorAssignment(wcif),
+  },
+  {
+    path: '/preview',
+    text: 'Preview groups',
+    icon: VisibilityIcon,
     enabled: wcif => anyCompetitorAssignment(wcif),
   },
 ];
